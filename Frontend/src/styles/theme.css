@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Lora:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap');
+html,
+body,
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  min-height: 100%;
+  background: var(--background-primary);
+  color: var(--text-primary);
+  font-family: var(--font-inter);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/* Typography Utility Classes */
+.font-lora {
+  font-family: var(--font-lora);
+}
+
+.font-jakarta {
+  font-family: var(--font-jakarta);
+}
+
+.font-inter {
+  font-family: var(--font-inter);
+}
+
+/* Shared Page Background */
+.app-background {
+  background: #f7f8f6;
+  min-height: 100vh;
+  color: #1d1d1d;
+}
+
+/* Shared Container */
+.page-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+/* Shared Heading Styles */
+.heading-xl {
+  font-family: var(--font-lora);
+  font-size: clamp(42px, 6vw, 72px);
+  line-height: 1;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+}
+
+.heading-lg {
+  font-family: var(--font-jakarta);
+  font-size: clamp(28px, 4vw, 42px);
+  line-height: 1.1;
+  letter-spacing: -0.03em;
+  font-weight: 600;
+}
+
+.body-text {
+  font-family: var(--font-inter);
+  font-size: 16px;
+  line-height: 1.7;
+  color: var(--text-secondary);
+}
