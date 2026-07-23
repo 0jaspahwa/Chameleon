@@ -1,0 +1,12 @@
+# Environments
+.env
+__pycache__/
+
+# Datasets
+*.csv
+*.zip
+
+# ML Model Weights (You can choose to commit the JSON files, but ignore the heavy binaries)
+chameleon_api_assets/*.pth
+chameleon_api_assets/*.joblib
+trained_engine.pkl
