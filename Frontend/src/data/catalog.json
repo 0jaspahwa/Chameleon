@@ -1,0 +1,407 @@
+[
+  {
+    "id": "FLOATING-HEADPHONES-DISPLAY",
+    "name": "Floating Wireless Headphones",
+    "price": 129.99,
+    "description": "High-quality floating wireless headphones designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Electronics",
+    "image_url": "/images/Floating Headphones Display.png"
+  },
+  {
+    "id": "GEOMETRIC-MOUNTAIN-BLUE-MID-CALF-SOCKS",
+    "name": "Geometric Mountain Blue Mid-Calf Socks",
+    "price": 14.99,
+    "description": "High-quality geometric mountain blue mid-calf socks designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Socks",
+    "image_url": "/images/Geometric Mountain Blue Mid-Calf Socks.png"
+  },
+  {
+    "id": "LUXURIOUS-HEADPHONES",
+    "name": "Luxurious Over-Ear Headphones",
+    "price": 249.99,
+    "description": "High-quality luxurious over-ear headphones designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Electronics",
+    "image_url": "/images/Luxurious Headphones.png"
+  },
+  {
+    "id": "MODERN-HEADPHONES-DISPLAY",
+    "name": "Modern Studio Headphones",
+    "price": 179.99,
+    "description": "High-quality modern studio headphones designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Electronics",
+    "image_url": "/images/Modern Headphones Display.png"
+  },
+  {
+    "id": "MODERN-STYLISH-PORTRAIT",
+    "name": "Modern Stylish Jacket",
+    "price": 159.99,
+    "description": "High-quality modern stylish jacket designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Outerwear",
+    "image_url": "/images/Modern Stylish Portrait.png"
+  },
+  {
+    "id": "OCTAGONAL-SUNGLASSES",
+    "name": "Octagonal Frame Sunglasses",
+    "price": 89.99,
+    "description": "High-quality octagonal frame sunglasses designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Octagonal Sunglasses.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-050740",
+    "name": "Classic Tops Standard",
+    "price": 20.0,
+    "description": "High-quality classic tops standard designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Tops",
+    "image_url": "/images/Screenshot 2026-07-21 050740.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-050756",
+    "name": "Modern Casual Edition",
+    "price": 76.31,
+    "description": "High-quality modern casual edition designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Casual",
+    "image_url": "/images/Screenshot 2026-07-21 050756.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-050932",
+    "name": "Ultra Jewelry Plus",
+    "price": 132.62,
+    "description": "High-quality ultra jewelry plus designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Jewelry",
+    "image_url": "/images/Screenshot 2026-07-21 050932.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-050956",
+    "name": "Pro Tables Max",
+    "price": 188.93,
+    "description": "High-quality pro tables max designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "image_url": "/images/Screenshot 2026-07-21 050956.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051023",
+    "name": "Eco-friendly Desk Accessories Series",
+    "price": 245.24,
+    "description": "High-quality eco-friendly desk accessories series designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Desk Accessories",
+    "image_url": "/images/Screenshot 2026-07-21 051023.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051044",
+    "name": "Ergonomic Bottoms Line",
+    "price": 301.55,
+    "description": "High-quality ergonomic bottoms line designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Bottoms",
+    "image_url": "/images/Screenshot 2026-07-21 051044.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051055",
+    "name": "Stylish Formal Essentials",
+    "price": 357.86,
+    "description": "High-quality stylish formal essentials designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Formal",
+    "image_url": "/images/Screenshot 2026-07-21 051055.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051142",
+    "name": "Premium Watches Signature",
+    "price": 391.0,
+    "description": "High-quality premium watches signature designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "image_url": "/images/Screenshot 2026-07-21 051142.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051206",
+    "name": "Durable Desks Standard",
+    "price": 67.31,
+    "description": "High-quality durable desks standard designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Desks",
+    "image_url": "/images/Screenshot 2026-07-21 051206.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051219",
+    "name": "Lightweight Stationery Edition",
+    "price": 123.62,
+    "description": "High-quality lightweight stationery edition designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Stationery",
+    "image_url": "/images/Screenshot 2026-07-21 051219.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051254",
+    "name": "Classic Outerwear Plus",
+    "price": 179.93,
+    "description": "High-quality classic outerwear plus designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Outerwear",
+    "image_url": "/images/Screenshot 2026-07-21 051254.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051313",
+    "name": "Modern Boots Max",
+    "price": 236.24,
+    "description": "High-quality modern boots max designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Boots",
+    "image_url": "/images/Screenshot 2026-07-21 051313.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051324",
+    "name": "Ultra Eyewear Series",
+    "price": 292.55,
+    "description": "High-quality ultra eyewear series designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Screenshot 2026-07-21 051324.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051422",
+    "name": "Pro Storage Line",
+    "price": 348.86,
+    "description": "High-quality pro storage line designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Storage",
+    "image_url": "/images/Screenshot 2026-07-21 051422.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051435",
+    "name": "Eco-friendly Electronics Essentials",
+    "price": 382.0,
+    "description": "High-quality eco-friendly electronics essentials designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Electronics",
+    "image_url": "/images/Screenshot 2026-07-21 051435.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051445",
+    "name": "Ergonomic Activewear Signature",
+    "price": 58.31,
+    "description": "High-quality ergonomic activewear signature designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Activewear",
+    "image_url": "/images/Screenshot 2026-07-21 051445.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051503",
+    "name": "Stylish Athletic Standard",
+    "price": 114.62,
+    "description": "High-quality stylish athletic standard designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Athletic",
+    "image_url": "/images/Screenshot 2026-07-21 051503.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051519",
+    "name": "Premium Bags Edition",
+    "price": 170.93,
+    "description": "High-quality premium bags edition designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Bags",
+    "image_url": "/images/Screenshot 2026-07-21 051519.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051537",
+    "name": "Durable Seating Plus",
+    "price": 227.24,
+    "description": "High-quality durable seating plus designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Seating",
+    "image_url": "/images/Screenshot 2026-07-21 051537.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051557",
+    "name": "Lightweight Lighting Max",
+    "price": 283.55,
+    "description": "High-quality lightweight lighting max designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Lighting",
+    "image_url": "/images/Screenshot 2026-07-21 051557.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051623",
+    "name": "Classic Tops Series",
+    "price": 339.86,
+    "description": "High-quality classic tops series designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Tops",
+    "image_url": "/images/Screenshot 2026-07-21 051623.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051642",
+    "name": "Modern Casual Line",
+    "price": 373.0,
+    "description": "High-quality modern casual line designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Casual",
+    "image_url": "/images/Screenshot 2026-07-21 051642.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051651",
+    "name": "Ultra Jewelry Essentials",
+    "price": 49.31,
+    "description": "High-quality ultra jewelry essentials designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Jewelry",
+    "image_url": "/images/Screenshot 2026-07-21 051651.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051741",
+    "name": "Pro Tables Signature",
+    "price": 105.62,
+    "description": "High-quality pro tables signature designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Tables",
+    "image_url": "/images/Screenshot 2026-07-21 051741.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051758",
+    "name": "Eco-friendly Desk Accessories Standard",
+    "price": 161.93,
+    "description": "High-quality eco-friendly desk accessories standard designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Desk Accessories",
+    "image_url": "/images/Screenshot 2026-07-21 051758.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051856",
+    "name": "Ergonomic Bottoms Edition",
+    "price": 218.24,
+    "description": "High-quality ergonomic bottoms edition designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Bottoms",
+    "image_url": "/images/Screenshot 2026-07-21 051856.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-051910",
+    "name": "Stylish Formal Plus",
+    "price": 274.55,
+    "description": "High-quality stylish formal plus designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Formal",
+    "image_url": "/images/Screenshot 2026-07-21 051910.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052049",
+    "name": "Premium Watches Max",
+    "price": 330.86,
+    "description": "High-quality premium watches max designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Watches",
+    "image_url": "/images/Screenshot 2026-07-21 052049.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052103",
+    "name": "Durable Desks Series",
+    "price": 364.0,
+    "description": "High-quality durable desks series designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Desks",
+    "image_url": "/images/Screenshot 2026-07-21 052103.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052115",
+    "name": "Lightweight Stationery Line",
+    "price": 40.31,
+    "description": "High-quality lightweight stationery line designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Office Gear",
+    "subcategory": "Stationery",
+    "image_url": "/images/Screenshot 2026-07-21 052115.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052142",
+    "name": "Classic Outerwear Essentials",
+    "price": 96.62,
+    "description": "High-quality classic outerwear essentials designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Outerwear",
+    "image_url": "/images/Screenshot 2026-07-21 052142.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052203",
+    "name": "Modern Boots Signature",
+    "price": 152.93,
+    "description": "High-quality modern boots signature designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Shoes",
+    "subcategory": "Boots",
+    "image_url": "/images/Screenshot 2026-07-21 052203.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052222",
+    "name": "Ultra Eyewear Standard",
+    "price": 209.24,
+    "description": "High-quality ultra eyewear standard designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Screenshot 2026-07-21 052222.png"
+  },
+  {
+    "id": "SCREENSHOT-2026-07-21-052235",
+    "name": "Pro Storage Edition",
+    "price": 265.55,
+    "description": "High-quality pro storage edition designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Furniture",
+    "subcategory": "Storage",
+    "image_url": "/images/Screenshot 2026-07-21 052235.png"
+  },
+  {
+    "id": "STYLISH-SUNGLASSES-DISPLAY-1",
+    "name": "Stylish Aviator Sunglasses",
+    "price": 74.99,
+    "description": "High-quality stylish aviator sunglasses designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Stylish Sunglasses Display (1).png"
+  },
+  {
+    "id": "STYLISH-SUNGLASSES-DISPLAY-2",
+    "name": "Stylish Round Sunglasses",
+    "price": 79.99,
+    "description": "High-quality stylish round sunglasses designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Stylish Sunglasses Display (2).png"
+  },
+  {
+    "id": "STYLISH-SUNGLASSES-DISPLAY",
+    "name": "Stylish Cat-Eye Sunglasses",
+    "price": 84.99,
+    "description": "High-quality stylish cat-eye sunglasses designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Stylish Sunglasses Display.png"
+  },
+  {
+    "id": "STYLISH-SUNGLASSES-PORTRAIT",
+    "name": "Stylish Wayfarer Sunglasses",
+    "price": 69.99,
+    "description": "High-quality stylish wayfarer sunglasses designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Accessories",
+    "subcategory": "Eyewear",
+    "image_url": "/images/Stylish Sunglasses Portrait.png"
+  },
+  {
+    "id": "STYLISH-WOMAN-PORTRAIT",
+    "name": "Stylish Statement Dress",
+    "price": 189.99,
+    "description": "High-quality stylish statement dress designed for everyday use. Features premium materials and a sleek finish.",
+    "category": "Apparel",
+    "subcategory": "Outerwear",
+    "image_url": "/images/Stylish Woman Portrait.png"
+  }
+]
